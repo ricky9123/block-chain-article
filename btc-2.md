@@ -55,9 +55,6 @@
 
 ![pool_rank.png][5]
 
-![wechat_qrcode](http://7xoqy3.com1.z0.glb.clouddn.com/wechat_public_account.jpg)
-
-
   [1]: http://blockchain8.tech/usr/uploads/2018/03/2956263330.jpg
   [2]: http://blockchain8.tech/usr/uploads/2018/03/2650690234.png
   [3]: http://blockchain8.tech/usr/uploads/2018/03/3576656148.png

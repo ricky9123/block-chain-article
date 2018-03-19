@@ -28,8 +28,6 @@
 # 后续文章
 本篇文章是比特币系列文章的第一篇，主要将比特币货币体系和传统货币体系进行了对比。在接下来的文章里，将会从技术角度逐步讲述比特币的实现。
 
-![wechat_qrcode](http://7xoqy3.com1.z0.glb.clouddn.com/wechat_public_account.jpg)
-
 
   [1]: http://blockchain8.tech/usr/uploads/2018/03/421630250.jpg
   [2]: http://blockchain8.tech/usr/uploads/2018/03/1456300519.png
