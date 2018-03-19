@@ -4,6 +4,8 @@
 
  - [你好，比特币](/btc-1.md)
  - [越努力，越幸运 —— 比特币挖矿奥义](/btc-2.md)
+ 
+
 
 ## 多平台阅读
 
@@ -14,3 +16,4 @@
  
 ![wechat_qrcode](http://7xoqy3.com1.z0.glb.clouddn.com/wechat_public_account.jpg)
 
+>本文由[Bicong Wang](https://github.com/wangbicong)创作，采用[知识共享署名4.0](https://creativecommons.org/licenses/by/4.0/)国际许可协议进行许可，转载前请务必署名。
