@@ -68,8 +68,6 @@ PoW的工作原理是让矿工们计算出一个小于X的哈希值，因此计�
 
 其实，以太坊之前是打算直接从PoW转为PoS的，而非这样的混合机制。但是完全抛弃PoW，矿工们不满意，因为他们手中的计算型矿机将会变成废铁。“精明”的矿工们会从ETH转向众多PoW机制的币去，没有人挖的以太币将会面临危机。这就是信仰与现实的战争。
 
-![wechat_qrcode](http://7xoqy3.com1.z0.glb.clouddn.com/wechat_public_account.jpg)
-
 
   [1]: http://blockchain8.tech/usr/uploads/2018/04/506210745.jpeg
   [2]: http://blockchain8.tech/usr/uploads/2018/04/1809860871.png
