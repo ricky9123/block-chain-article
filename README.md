@@ -11,6 +11,7 @@
 * [以太坊篇](eth/README.md)
   * [别说你不知道以太坊](/eth/eth-1.md)
   * [PoW和PoS不得不说的小秘密](/eth/eth-2.md)
+  * [如果你也想在以太坊上写点什么](/eth/eth-3.md)
   
 ***
 如果你觉得还不错，欢迎[Star](https://github.com/Wangbicong/block-chain-article)。如果有建议与吐槽，也欢迎提[Issue](https://github.com/Wangbicong/block-chain-article/issues)。

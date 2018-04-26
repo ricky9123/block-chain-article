@@ -10,4 +10,5 @@
 * [以太坊篇](eth/README.md)
   * [别说你不知道以太坊](eth/eth-1.md)
   * [PoW和PoS不得不说的小秘密](eth/eth-2.md)
+  * [如果你也想在以太坊上写点什么](eth/eth-3.md)
 
